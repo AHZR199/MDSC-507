@@ -1,0 +1,16 @@
+Culex_quinquefasciatus
+Culex_pipiens_pallens
+Aedes_albopictus
+Anopheles_atroparvus
+Anopheles_christyi
+Anopheles_coluzzii
+Anopheles_culicifacies
+Anopheles_darlingi
+Anopheles_dirus
+Anopheles_epiroticus
+Anopheles_farauti
+Anopheles_funestus
+Anopheles_gambiae
+Anopheles_maculatus
+Anopheles_merus
+Anopheles_minimus

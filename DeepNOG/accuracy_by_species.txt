@@ -1,0 +1,12 @@
+aegypti
+Accuracy: 97.70%
+albimanus
+Accuracy: 99.38%
+arabiensis
+Accuracy: 99.97%
+gambiae_str._PEST
+Accuracy: 99.36%
+sinensis
+Accuracy: 97.18%
+stephensi
+Accuracy: 99.89%

@@ -1,0 +1,114 @@
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: GSTD6
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/10295at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: MED27
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/11159at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: RpL38
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/12057at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: MED7
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/12930at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: Ctl1
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/14183at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: Tctp
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/14958at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: Oda
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/16179at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: CYP4K3
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/17241at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: MED24
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/19135at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: TDO
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/20116at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: AMY1
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/21991at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: MED4
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/22625at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: SPZ3A
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/23673at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: eIF3-S6
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/2449at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: IAP1
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/25527at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: eIF3-S8
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/26315at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: MED20
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/2814at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: Cdc42
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/3028at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: U1C
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/31609at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: RpS6
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/32576at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: IAP5
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/37112at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: HPX1
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/37790at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: eIF3-S5
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/38331at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: GDH
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/38908at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: SCP-2
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/39514at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: eIF3m
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/40244at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: eIF3l
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/40925at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: MED8
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/41994at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: FoxL
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/42653at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: GALE2
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/43322at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: CLIPA15
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/43983at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: NPYLR
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/44618at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: Ir7f
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/45901at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: HPX2
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/4768at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: PGK
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/5779at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: SRPN14
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/7298at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: Adk2
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/8224at7157.fasta
+[31m[ERRO][0m fastx: invalid FASTA/Q format
+pub gene id: SUI1
+file : /work/soghigian_lab/abdullah.zubair2/507/Final_OrthoSet/orthoset_construction/culicidae_orthologs/raw_inputs/968at7157.fasta
