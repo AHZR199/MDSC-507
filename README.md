@@ -1,1 +1,30 @@
 # MDSC-507
+Orthologs are genes in different species that evolved from a shared ancestral gene by speciation. Orthology inference is a critical step in comparative genomics. By identifying orthologous genes, the evolutionary history of gene families, and even species themselves, can be evaluated. Moreover, orthologous genes are thought to retain similar function. This important aspect of orthologs has enabled the study of genetic mechanisms in model organisms to be applied directly to humans. However, orthology inference is not straight-forward, particularly in the case of newly sequenced organisms, where gene sets may not have been defined for that species before. Over time, there have been several ortholog inference software tools developed. These tools work to compare sequences of genes, either nucleotide or protein sequences, from different species and identify orthologs, and typically paralogs as well, by utilizing regions of similarity within the sequences. Of the many orthology inference tools available, they can be classified into two types: those that determine orthology without prior knowledge (denovo orthology inference), and those that assign orthology based on a catalog of genes from related organisms (orthology assignment). This project will focus only on orthology assignment tools, as these are commonly used across a range of applications in genomics, from gene family evolution to phylogenomics. Each tool utilizes a different algorithm and as a result accuracy and performance differs amongst the various tools. While traditional tools relied primarily on sequence similarity in some form, newer tools have been developed which utilize technologies such as deep learning (Feldbauer et al., 2020) or similarity in protein folding (Andorf et al., 2022).   
+
+ 
+
+The objective of this project is to evaluate traditional and new orthology inference tools in a comparative framework. As such, objective one will be to conduct a literature search on commonly used ortholog inference tools, assess the various methods used by each tool to consider how one could have potential advantages over others, and choose four tools for comparison. Based on potential advantages of tools, hypotheses on the best performing tool will be created. When selecting tools, only tools which perform ortholog assignment based on a pre-existing catalog will be considered. After selection of tools, objective two will be to construct software pipelines for each tool. These pipelines will take input sequence data, pre-process that data, and run the orthology assignment tool, and save resulting orthologous gene output in typical human readable formats (FASTA). For input data to evaluate tools, an existing Culicidae ortholog dataset from OrthoDB will be used, which is a well-characterized repository of orthologous gene groups (orthogroups) (Waterhouse et al., 2013). The ortholog dataset will be subset to an ortholog catalog and a test dataset, each with known true ortholog identity.  
+
+ 
+
+Once pipelines for each tool have been developed, objective three will be to directly compare the orthology assignment tools. There are a multitude of factors to be considered when comparing ortholog inference tools, principally being the number of sequences found for each orthologous gene within the dataset given (recall), but also accuracy in assigning genes to the correct ortholog group (precision). In addition, protein length and recovery (found or not) will be recorded. In addition to the accuracy and effectiveness of each tool, the runtime of each tool will also be recorded and will be another factor to consider within this comparison. This factor is also important as with certain tools and a large number of inputs, the runtime can be days which for certain purposes may not be practical. Finally, with the various factors considered, the more effective ortholog inference tool can be found, and the advantages and disadvantages of each tool will also be obtained meaning for certain purposes one tool may be better suited if, for example, the runtime of the tool is significantly lower, but the results are marginally worse than other tools. The statistical environment R will be used for statistical analysis and data visualization of results.  
+
+ 
+
+Direct comparisons of different orthology inference software are relatively rare, but there have been similar studies conducted. However, these studies do not compare modern software tools, only more traditional methods, and were tested on prokaryotic genomes, not eukaryotic genomes (Bruno et al., 2017). With these considerations in mind, this project is unique as it is a large-scale and comprehensive comparison of ortholog inference tools, which specifically use ortholog assignment. With the results of this project, future research which requires the use of ortholog inference can obtain the results of this study to pick the ideal tool that is most ideal given the circumstances.  
+
+ 
+
+Feldbauer, R., Gosch, L., Lüftinger, L., Hyden, P., Flexer, A., & Rattei, T. (2020). DeepNOG: Fast and accurate protein orthologous group assignment. Bioinformatics (Oxford, England), 36(22-23), 5304–5312. Advance online publication. https://doi.org/10.1093/bioinformatics/btaa1051 
+
+ 
+
+Nichio, B. T. L., Marchaukoski, J. N., & Raittz, R. T. (2017). New Tools in Orthology Analysis: A Brief Review of Promising Perspectives. Frontiers in genetics, 8, 165. https://doi.org/10.3389/fgene.2017.00165 
+
+ 
+
+Andorf, C. M., Sen, S., Hayford, R. K., Portwood, J. L., Cannon, E. K., Harper, L. C., . . . Woodhouse, M. R. (2022). Fasso: An alphafold based method to assign functional annotations by combining sequence and structure orthology. BioRxiv. https://doi.org/10.1101/2022.11.10.516002 
+
+ 
+
+Waterhouse, R. M., Tegenfeldt, F., Li, J., Zdobnov, E. M., & Kriventseva, E. V. (2013). OrthoDB: a hierarchical catalog of animal, fungal and bacterial orthologs. Nucleic acids research, 41(Database issue), D358–D365. https://doi.org/10.1093/nar/gks1116 
